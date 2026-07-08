@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3600
+
+#EXTINF:-1,Primeiro Vídeo
+https://docs.google.com/uc?export=download&id=1X5Vw6mtEsclETTydveulF0RbobfxZNwo
+
+#EXT-X-ENDLIST
